@@ -1,0 +1,7 @@
+name: ExampleEPlugin
+version: '${project.version}'
+main: de.erethon.example.ExampleEPlugin
+api-version: 1.18
+authors: [ Fyreum ]
+description: An example project using the Bedrock library
+website: https://github.com/DRE2N/ExampleEPlugin
